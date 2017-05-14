@@ -44,7 +44,6 @@
     </option>
   </component>
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions>
       <entry name=".+\.(properties|xml|html|dtd|tld)" />
       <entry name=".+\.(gif|png|jpeg|jpg)" />
@@ -61,16 +60,9 @@
       <entry name="?*.tld" />
       <entry name="?*.ft" />
     </wildcardResourcePatterns>
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-    </annotationProcessing>
   </component>
-  <component name="CopyrightManager" default="">
-    <module2copyright />
-  </component>
-  <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" warnedAboutFileOutOfSourceRoot="true" version="3" currentProject="$PROJECT_DIR$/testData/project_files/A.dsp" compilerSelect="AUTO">
+  <component name="CopyrightManager" default="" />
+  <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" warnedAboutFileOutOfSourceRoot="true" version="3" currentProject="$PROJECT_DIR$/testData/project_files/A.dsp" sdkErrorReported="true" compilerSelect="AUTO">
     <ignored-file path="C:\MinGW\1.0\home\Maxim\CF-C\idea\testData\completion\A.cpp" />
   </component>
   <component name="DependenciesAnalyzeManager">
@@ -101,6 +93,12 @@
     <option name="OUTPUT_DIRECTORY" />
   </component>
   <component name="IdProvider" IDEtalkID="0EF99AF160C3CE63FAF206C66E74ABEF" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />
     <option name="OPTION_SCOPE" value="protected" />
@@ -292,7 +290,7 @@
   <component name="ProjectResources">
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="IDEA" project-jdk-type="IDEA JDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="false" project-jdk-name="IDEA" project-jdk-type="IDEA JDK" />
   <component name="ProjectRunConfigurationManager">
     <configuration default="false" name="Idea" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="CppTools" />
@@ -333,4 +331,3 @@
     </option>
   </component>
 </project>
-
